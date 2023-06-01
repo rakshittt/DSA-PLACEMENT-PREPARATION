@@ -113,6 +113,18 @@ void print ( Node* &head){
         temp= temp->next;
     }
 };
+int findLength(Node* &head){
+
+    int len=0;
+    Node* temp =head;
+
+    while(temp!= NULL){
+        temp= temp->next;
+        len++;
+    }
+    return len;
+};
+
 
 void deleteNode(int position ,Node* &head, Node* &tail){
 
