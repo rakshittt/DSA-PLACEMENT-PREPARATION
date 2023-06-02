@@ -1,0 +1,1 @@
+{"name":"Local: CheckCircularLL","url":"e:\\DSA PLACEMENT PREPARATION\\Linked List\\LL QUESTIONS\\CheckCircularLL.cpp","tests":[{"id":1685687808533,"input":"10 15 01 24 21","output":"true"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA PLACEMENT PREPARATION\\Linked List\\LL QUESTIONS\\CheckCircularLL.cpp","group":"local","local":true}
