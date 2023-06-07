@@ -28,6 +28,7 @@ public:
 
         ListNode* curr =head;
 
+
         while(curr != NULL){
 
             if(curr->val %2 != 0){
