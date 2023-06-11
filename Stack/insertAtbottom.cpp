@@ -55,6 +55,7 @@ int main(){
     s.push(15);
     s.push(17);
    
+   
    insertAtbottom(s);
 
    cout<<"Printing"<<endl;
